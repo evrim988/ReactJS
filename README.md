@@ -100,4 +100,4 @@ Bu işlemi yapmak için package.json içerisinde ki scripts alanında değişikl
 npm start dediğimizde proje çalışır.
 CTRL + C ile projeyi durdurmuş oluruz.
 
-projeyi build almak için -> npm run build  
+projeyi build almak için -> npm run build
